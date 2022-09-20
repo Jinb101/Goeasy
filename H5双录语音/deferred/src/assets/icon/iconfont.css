@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3478991 */
+  src: url('iconfont.woff2?t=1656158424864') format('woff2'),
+       url('iconfont.woff?t=1656158424864') format('woff'),
+       url('iconfont.ttf?t=1656158424864') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zanting:before {
+  content: "\e87a";
+}
+
+.icon-24gf-pause2:before {
+  content: "\ea81";
+}
+
+.icon-shanchutianchong:before {
+  content: "\e68c";
+}
+
+.icon-shanchu:before {
+  content: "\e60d";
+}
+
+.icon-shiting:before {
+  content: "\e6f9";
+}
+
+.icon-choose:before {
+  content: "\e63b";
+}
+
+.icon-xiangyou1:before {
+  content: "\e775";
+}
+
+.icon-male8:before {
+  content: "\e865";
+}
+
+.icon-bofang:before {
+  content: "\e653";
+}
+
+.icon-shengboyuyinxiaoxi:before {
+  content: "\e8c4";
+}
+
+.icon-shiyongwendang:before {
+  content: "\eb66";
+}
+
+.icon-jiahao:before {
+  content: "\eaf3";
+}
+
+.icon-shangyibu:before {
+  content: "\e661";
+}
+
+.icon-xiayibu:before {
+  content: "\e664";
+}
+
+.icon-yinhang:before {
+  content: "\e68d";
+}
+
